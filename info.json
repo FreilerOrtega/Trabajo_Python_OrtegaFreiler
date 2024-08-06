@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "ventas": [
+            {
+                "fecha_venta": 1,
+                "nombre_cliente": "freyler",
+                "nombre_vendedor": "Gomez",
+                "producto": 20
+            },
+            {
+                "fecha_venta": "23-1999-11",
+                "nombre_cliente": "alex",
+                "nombre_vendedor": "jaime",
+                "producto": "yuca"
+            }
+        ]
+    }
+]
