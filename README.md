@@ -1,7 +1,7 @@
 # Trabajo_Python_OrtegaFreiler
 
 ## Descripcion 
-en este trabajo se ve un trabajo de gestion de una panaderia donde se tiene un crud para los campos requeridos y uso de el sistema para la panaderia 
+en este trabajo se evidencia gestion de una panaderia donde se tiene un crud para los campos requeridos y uso de el sistema para la panaderia 
 
 ### tecnologias utilizadas 
 
