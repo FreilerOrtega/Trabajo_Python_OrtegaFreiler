@@ -1,7 +1,5 @@
 # Trabajo_Python_OrtegaFreiler
 
-# Trabajo de python
-
 ## Descripcion 
 en este trabajo se ve un trabajo de gestion de una panaderia donde se tiene un crud para los campos requeridos y uso de el sistema para la panaderia 
 
